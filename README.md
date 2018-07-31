@@ -3,3 +3,5 @@ This program is sn input box that asks you to enter the name of a country. When 
 
 ### First screenshot
 ![screenshot from 2018-07-31 16-51-37](https://user-images.githubusercontent.com/20237313/43471334-a208bbd8-94e2-11e8-8075-8c28371d66b9.png)
+### Second screenshot
+![screenshot from 2018-07-31 16-52-03](https://user-images.githubusercontent.com/20237313/43471384-c433a5f6-94e2-11e8-9079-d2e7f80563dc.png)
