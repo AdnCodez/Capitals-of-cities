@@ -1,0 +1,9 @@
+India/New Delhi
+China/Beijing
+France/Paris
+Argentina/Buenos Aires
+Egypt/Cairo
+Morocco/Rabat
+Switzerland/Bern
+Germany/Berlin
+Russia/Moscow
